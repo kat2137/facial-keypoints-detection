@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "kaggle-workspace",
+			"path": "."
+		},
+		{
+			"name": "facial-keypoints-detection",
+			"path": "../Downloads/facial-keypoints-detection"
+		}
+	],
+	"settings": {}
+}
